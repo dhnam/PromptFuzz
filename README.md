@@ -1,3 +1,6 @@
+# graduate project fork
+
+refer to [original repository](https://github.com/FuzzAnything/PromptFuzz).
 # Prompt Fuzzing for Fuzz Driver Generation
 PromptFuzz is an automated tool that generates high-quality fuzz drivers for libraries via a fuzz loop constructed on mutating LLMs' prompts. The fuzz loop of PromptFuzz aims to guide the mutation of LLMs' prompts to generate programs that cover more reachable code and explore complex API interrelationships, which are effective for fuzzing.
 
